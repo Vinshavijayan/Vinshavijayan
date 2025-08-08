@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Vinsha :)
 
-Linkedin Badge Website Badge X Badge Instagram Badge Telegram Badge
 
 I'm a self-taught developer with 4+ years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Tools of the trade are MERN stack, JavaScript/TypeScript and Next js.
 
@@ -11,11 +10,7 @@ I'm a self-taught developer with 4+ years of experience, excited about crafting 
 ✒️ I sometimes write on my blog.
 💬 Ask me about MERN stack. I'd love to help!
 📫 You can reach me on linkedIn, Telegram, or via E-Mail
-🛠️ Stack
-JavaScript x TypeScript
-React (Next.js)
-MongoDB (Mongoose), SQL 
-Nest.js (Express / Node.js)
-MERN stack
+## 🛠 Skills
+HTML | CSS | JavaScript | React | Next.js | Tailwind CSS | Redux | Zustand | Mongodb | express Js | Node JS | Typescript | vercel | Wordpress | Figma | MySQL | Firebase
 
 
