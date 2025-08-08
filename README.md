@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey 👋, I'm Vinsha :)
 
-<!--
-**Vinshavijayan/Vinshavijayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linkedin Badge Website Badge X Badge Instagram Badge Telegram Badge
 
-Here are some ideas to get you started:
+I'm a self-taught developer with 4+ years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Tools of the trade are MERN stack, JavaScript/TypeScript and Next js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Me
+💼 I work as a Software Engineer in Rookie Ninja General Trading llc,Dubai.
+⌨️ As a side project, I'm working on a skill building platform for creatives.
+📚 Learning new technologies.
+✒️ I sometimes write on my blog.
+💬 Ask me about MERN stack. I'd love to help!
+📫 You can reach me on linkedIn, Telegram, or via E-Mail
+🛠️ Stack
+JavaScript x TypeScript
+React (Next.js)
+MongoDB (Mongoose), SQL 
+Nest.js (Express / Node.js)
+MERN stack
+
+
